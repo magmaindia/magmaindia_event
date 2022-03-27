@@ -238,7 +238,7 @@ button:hover {
 
 .bg-banner-one {
     background: url(../images/background/homepage-one-banner.png) no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: center center;
 }
 
