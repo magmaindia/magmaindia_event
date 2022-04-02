@@ -2262,7 +2262,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .map .address-block {
     position: absolute;
-    padding: 45px 170px 50px 50px;
+    padding: 45px 270px 50px 50px;
     top: 80px;
     left: 10%;
     background: #ff6600;
@@ -2337,7 +2337,7 @@ select.form-control:not([size]):not([multiple]) {
 @media (max-width: 767px) {
     .map.new .register {
         width: 100%;
-        position: center;
+        position: relative;
     }
 }
 
