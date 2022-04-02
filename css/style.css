@@ -2337,7 +2337,7 @@ select.form-control:not([size]):not([multiple]) {
 @media (max-width: 767px) {
     .map.new .register {
         width: 100%;
-        position: relative;
+        position: center;
     }
 }
 
